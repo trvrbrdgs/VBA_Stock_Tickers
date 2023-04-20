@@ -1,2 +1,2 @@
-# Week2_hw
-Soul sucking VBA
+# VBA Scripting
+Utilizing VBA to interpret stock data and uncover market trends
